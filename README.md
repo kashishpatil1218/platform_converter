@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/6f25a08c-450d-4f05-aa3f-d0d1a5bdf42d
 
 
 
-
+## Browser App
 ## Dependencies
 
 - [`flutter`](https://flutter.dev/) - The Flutter SDK
